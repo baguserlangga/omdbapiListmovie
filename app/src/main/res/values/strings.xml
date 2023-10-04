@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Brighton OmdApiMovie</string>
+    <string name="shrared_pref_searchMovie" translatable="false">Brighton OmdApiMovie</string>
+</resources>
